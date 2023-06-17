@@ -2,7 +2,7 @@
 
 # About Reactoor
 
-Reactoor is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Reactoor is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Reactoor takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://reactoor.ir/docs/routing).
 - [Powerful dependency injection container](https://reactoor.ir/docs/container).
